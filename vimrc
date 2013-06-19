@@ -62,7 +62,6 @@ Bundle 'gmarik/vundle'
 " Solarized color schemes
 Bundle 'altercation/vim-colors-solarized'
 " https://github.com/altercation/vim-colors-solarized
-" -------------------- End Tony Day bundles --------------------
 
 " Vim-script library for vim programming - seems to be needed by other plugins
 Bundle 'L9'
@@ -79,6 +78,8 @@ Bundle 'tpope/vim-surround'
 " Comment stuff real easy like
 Bundle 'scrooloose/nerdcommenter'
 " https://github.com/scrooloose/nerdcommenter
+" -------------------- End Tony Day bundles --------------------
+"
 filetype plugin indent on     " required!
 "
 " Brief help
